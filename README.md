@@ -36,7 +36,7 @@ Follow these instructions to set up a local copy of the project on your machine.
 1. Clone the repository:
 
    ```
-   git clone https://github.com/itsindrajput/health-tracker.git
+   git clone https://github.com/MynkSinghal/AnngualrDev.git
    cd health-tracker
    ```
 
