@@ -47,3 +47,8 @@ Follow these instructions to set up a local copy of the project on your machine.
 
 - Run the application locally:
   `ng serve`
+
+## Development server
+
+- I have Deploy the application on a hosting platform like: Netlify
+- https://fyle-health-tracker.netlify.app/
